@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Microsoft cloud sandbox",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "Sandbox",
+            "environmentName": "CopiaProd",
+            "tenant": "d246e1f3-71b7-4a2a-8787-5d813799423b",
+            "startupObjectId": 50035,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "startupCompany": "Productivo",
+ 
+        
+        }
+        ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "4b9f4a57-6fde-4281-a005-ed5ac75c19f1",
+  "name": "ExtensionesEMV2",
+  "publisher": "ExtensionesEMV2",
+  "version": "1.0.1.71",
+  "brief": "",
+
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "1ed50c80-7502-4a49-8997-9771910c61ec",
+      "name": "Localizacion Paraguaya",
+      "publisher": "Excelsis S.A.",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "e7008d97-651b-4217-86e5-10490134a02f",
+      "name": "BCEM",
+      "publisher": "EM",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50500
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "10.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
